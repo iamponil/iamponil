@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iamponil)](https://git.io/streak-stats)
+
 # Todoist Stats
 
 <!-- TODO-IST:START -->
