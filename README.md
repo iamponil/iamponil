@@ -29,7 +29,7 @@ Java              2 mins          ░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <details>
-### :zap: Recent Activity
+<summary> ### ⚡: Github Stats </summary>
   <img align ="left" alt="iamPonil's Github Stats" src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"/>
 </details>
 
