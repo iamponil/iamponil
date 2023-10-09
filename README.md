@@ -2,6 +2,8 @@
 
 
 
+| Todoist State     | weekly wakatime |
+|<!-- TODO-IST:START --><!-- TODO-IST:END --> |<!--START_SECTION:waka--><!--END_SECTION:waka--> |
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iamponil&theme=dark&hide_border=true&border_radius=4.4)](https://git.io/streak-stats)
