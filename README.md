@@ -29,11 +29,11 @@ Java              2 mins          ░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <details>
-<summary> :zap: Github Stats</summary>
+### :zap: Recent Activity
   <img align ="left" alt="iamPonil's Github Stats" src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"/>
 </details>
 
-<hr/>
+---
 
 <details>
   <summary> :zap: Github Streaks</summary>
