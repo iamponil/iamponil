@@ -30,12 +30,14 @@ Java              2 mins          ░░░░░░░░░░░░░░░�
 
 <details>
 <summary> :zap: Github Stats</summary>
-  <img align ="left" alt="iamPonil's Github Stats" src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula"/>
+  <img align ="left" alt="iamPonil's Github Stats" src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"/>
 </details>
+
+<hr/>
 
 <details>
   <summary> :zap: Github Streaks</summary>
-  <img align ="left" alt="iamPonil's Github Stats" src="https://streak-stats.demolab.com?user=iamponil&theme=dark&hide_border=true&border_radius=4.4"/>
+  <img align ="left" alt="iamPonil's Github Stats" src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"/>
 </details>
 
 [Linkedin]: https://linkedin.com/in/ameur-nemlaghi
