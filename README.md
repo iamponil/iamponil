@@ -3,10 +3,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=iamponil&theme=dark&hide_border=true&border_radius=4.4)](https://git.io/streak-stats)
 
 # Todoist Stats
 
@@ -30,3 +27,15 @@ Java              2 mins          ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+<details>
+<summary> :zap: Github Stats</summary>
+  <img align ="left" alt="iamPonil's Github Stats" src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula"/>
+</details>
+
+<details>
+  <summary> :zap: Github Streaks</summary>
+  <img align ="left" alt="iamPonil's Github Stats" src="https://streak-stats.demolab.com?user=iamponil&theme=dark&hide_border=true&border_radius=4.4"/>
+</details>
+
+[Linkedin]: https://linkedin.com/in/ameur-nemlaghi
