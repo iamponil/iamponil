@@ -2,13 +2,7 @@
 
 
 
-| Todoist State     | weekly wakatime |
-|<!-- TODO-IST:START -->
-🏆  642 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 13 tasks so far           
-⏳  Longest streak is 1 days
-<!-- TODO-IST:END --> |<!--START_SECTION:waka--><!--END_SECTION:waka--> |
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamponil)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iamponil&theme=dark&hide_border=true&border_radius=4.4)](https://git.io/streak-stats)
