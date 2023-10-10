@@ -52,8 +52,8 @@ Java              2 mins          ░░░░░░░░░░░░░░░�
           <a href="https://github.com/iamponil/">
         <details>
     <summary>:zap: Github Stats</summary>
-    <img  max-height="187px" alt="iamPonil's Github Stats" src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"/>
-    <img alt="iamPonil's Github Streaks" src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"/>
+    <img width="48%"  max-height="187px" alt="iamPonil's Github Stats" src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"/>
+    <img width="48%"  alt="iamPonil's Github Streaks" src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"/>
 
   </details>
           </a>
