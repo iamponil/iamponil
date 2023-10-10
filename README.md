@@ -20,21 +20,14 @@
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-
-
-
 # Todoist Stats
-
 <!-- TODO-IST:START -->
 🏆  642 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 13 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
-
-
-
+# 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 
 ```txt
@@ -48,14 +41,14 @@ Java              2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
   <div>
         <p align="center">
           <a href="https://github.com/iamponil/">
         <details>
     <summary>:zap: Github Stats</summary>
-    <img width="48%"  max-height="187px" alt="iamPonil's Github Stats" src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"/>
-    <img width="48%"  alt="iamPonil's Github Streaks" src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"/>
+    <img width="33%"  alt="iamPonil's Github Stats" src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"/>
+    <img width="33%"  alt="iamPonil's Github Streaks" src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"/>
+    <img width="33%" alt="https://github-readme-stats.vercel.app/api/top-langs/?username=iamponil&hide_progress=true"/>
 
   </details>
           </a>
