@@ -46,13 +46,14 @@ Java              2 mins          ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<div align="center">
+<div style="display: flex; flex-direction: column; align-items: center;">
   <details>
-<summary>  :zap: Github Stats </summary>
-  <img width="50%" alt="iamPonil's Github Stats" src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"/>
-</details>
- <details>
-  <summary> :zap: Github Streaks</summary>
-  <img width="50%" alt="iamPonil's Github Stats" src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"/>
-</details>
+    <summary>:zap: Github Stats</summary>
+    <img width="50%" alt="iamPonil's Github Stats" src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"/>
+  </details>
+  <details>
+    <summary>:zap: Github Streaks</summary>
+    <img width="50%" alt="iamPonil's Github Streaks" src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"/>
+  </details>
 </div>
+
