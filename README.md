@@ -42,11 +42,12 @@ Java              2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
   <div>
-        <p align="center">
-          <a href="https://github.com/iamponil/">
         <details>
     <summary>:zap: Github Stats</summary>
-<picture>
+    <img width="49.6%"  alt="iamPonil's Github Streaks" src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"/>
+    <img  width="49.6%"  src="https://github-readme-stats-iamponils-projects.vercel.app/api/top-langs/?username=iamponil&langs_count=6&theme=dracula&layout=compact&hide_border=true"/></a>
+ <p align="center">
+ <picture>
   <source
     srcset="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"
     alt="iamPonil's Github Stats"
@@ -58,13 +59,9 @@ Java              2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true" />
-</picture>
-    <img width="49.6%"  alt="iamPonil's Github Streaks" src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"/>
-    <img  width="49.6%"  src="https://github-readme-stats-iamponils-projects.vercel.app/api/top-langs/?username=iamponil&langs_count=6&theme=gotham&layout=compact&hide_border=true"/></a>
+</picture> 
+ </p>
   </details>
-          </a>
-       </p>
-     <br>
   </div>
  
 
