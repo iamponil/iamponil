@@ -41,7 +41,6 @@ Java              2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
- <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <details>
     <summary>:zap: Github Stats</summary>
      <table>
@@ -97,6 +96,5 @@ Java              2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </p>
   </details>
 
-</div>
 
 
