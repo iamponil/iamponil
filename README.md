@@ -46,17 +46,13 @@ Java              2 mins          ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<details>
-<summary> ### ⚡: Github Stats </summary>
-  <img align ="left" alt="iamPonil's Github Stats" src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"/>
+<div align="center">
+  <details>
+<summary>  :zap: Github Stats </summary>
+  <img width="50%" alt="iamPonil's Github Stats" src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"/>
 </details>
-
----
-
-<details>
+ <details>
   <summary> :zap: Github Streaks</summary>
-  <img align ="left" alt="iamPonil's Github Stats" src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"/>
+  <img width="50%" alt="iamPonil's Github Stats" src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"/>
 </details>
-
-[Linkedin]: https://linkedin.com/in/ameur-nemlaghi
+</div>
