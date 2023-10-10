@@ -44,6 +44,9 @@ Java              2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <details>
     <summary>:zap: Github Stats</summary>
+     <table>
+      <tr>
+        <td>
     <div style="display: flex; flex-wrap: wrap;">
       <picture style="flex: 1;">
         <source
@@ -58,6 +61,8 @@ Java              2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
         />
         <img src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true" />
       </picture>
+       </td>
+        <td>
       <picture style="flex: 1;">
         <source
           srcset="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"
@@ -71,9 +76,11 @@ Java              2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
         />
         <img src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true" />
       </picture>
+           </td>
+      </tr>
+    </table>
     </div>
-  </details>
-  <p align="center">
+           <p align="center">
     <picture>
       <source
         srcset="https://github-readme-stats-iamponils-projects.vercel.app/api/top-langs/?username=iamponil&langs_count=6&theme=dracula&layout=compact&hide_border=true"
@@ -88,6 +95,8 @@ Java              2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
       <img src="https://github-readme-stats-iamponils-projects.vercel.app/api/top-langs/?username=iamponil&langs_count=6&theme=dracula&layout=compact&hide_border=true" />
     </picture>
   </p>
+  </details>
+
 </div>
 
 
