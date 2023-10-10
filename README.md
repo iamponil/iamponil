@@ -1,7 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&theme=dark&height=200&text=iamPonil&fontSize=60&fontAlignY=30&desc=Web%20Software%20Engineer&descAlignY=50)
-      <div style="display: flex; justify-content: center;">
-    <img alt="View Counter" src="https://komarev.com/ghpvc/?username=iamponil&style=flat-square&color=lightgrey" />
-  </div>
+
+  <div align="center">
+  <img alt="View Counter" src="https://komarev.com/ghpvc/?username=iamponil&style=flat-square&color=lightgrey" />
+</div>
 
 ### ☕ Connect with me
 
