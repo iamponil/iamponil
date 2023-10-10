@@ -50,10 +50,9 @@ Java              2 mins          ░░░░░░░░░░░░░░░�
   <details>
     <summary>:zap: Github Stats</summary>
     <img width="50%" alt="iamPonil's Github Stats" src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"/>
+        <img width="50%" alt="iamPonil's Github Streaks" src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"/>
+
   </details>
-  <details>
-    <summary>:zap: Github Streaks</summary>
-    <img width="50%" alt="iamPonil's Github Streaks" src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"/>
-  </details>
+
 </div>
 
