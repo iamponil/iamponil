@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&theme=dark&height=200&text=iamPonil&fontSize=60&fontAlignY=30&desc=Web%20Software%20Engineer&descAlignY=50)
-<--
+
   <div align="center">
-  <img color="#ff822d" alt="View Counter" src="https://komarev.com/ghpvc/?username=iamponil&style=flat-square&color=lightgrey" />
+  <img  alt="View Counter" src="https://komarev.com/ghpvc/?username=iamponil&style=flat-square&color=#ff822d" />
 </div>
 
 
