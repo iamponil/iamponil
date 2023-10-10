@@ -46,23 +46,25 @@ Java              2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
           <a href="https://github.com/iamponil/">
         <details>
     <summary>:zap: Github Stats</summary>
-    <img width="33%"  alt="iamPonil's Github Stats" src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"/>
-    <img width="33%"  alt="iamPonil's Github Streaks" src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"/>
-    <img  width="33%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamponil&langs_count=6&theme=gotham&layout=compact&hide_border=true"/></a>
+<picture>
+  <source
+    srcset="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"
+    alt="iamPonil's Github Stats"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"
+    alt="iamPonil's Github Stats"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true" />
+</picture>
+    <img width="49.6%"  alt="iamPonil's Github Streaks" src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"/>
+    <img  width="49.6%"  src="https://github-readme-stats-iamponils-projects.vercel.app/api/top-langs/?username=iamponil&langs_count=6&theme=gotham&layout=compact&hide_border=true"/></a>
   </details>
           </a>
        </p>
      <br>
   </div>
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+ 
 
