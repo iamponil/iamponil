@@ -41,52 +41,53 @@ Java              2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-  <div>
-        <details>
+ <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <details>
     <summary>:zap: Github Stats</summary>
-    <img  width="49.6%"  src="https://github-readme-stats-iamponils-projects.vercel.app/api/top-langs/?username=iamponil&langs_count=6&theme=dracula&layout=compact&hide_border=true"/></a>
- <p align="center">
- <picture>
-  <source
-    srcset="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"
-    alt="iamPonil's Github Stats"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"
-    alt="iamPonil's Github Stats"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true" />
-</picture> 
- <picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"
-    alt="iamPonil's Github Streaks"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"
-    alt="iamPonil's Github Streaks"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true" />
-</picture> 
-    <picture>
-  <source
-    srcset="https://github-readme-stats-iamponils-projects.vercel.app/api/top-langs/?username=iamponil&langs_count=6&theme=dracula&layout=compact&hide_border=true"
-    alt="iamPonil's Github Stats"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-iamponils-projects.vercel.app/api/top-langs/?username=iamponil&langs_count=6&theme=dracula&layout=compact&hide_border=true"
-    alt="iamPonil's Github Stats"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-iamponils-projects.vercel.app/api/top-langs/?username=iamponil&langs_count=6&theme=dracula&layout=compact&hide_border=true" />
-</picture> 
- </p>
+    <div style="display: flex; flex-wrap: wrap;">
+      <picture style="flex: 1;">
+        <source
+          srcset="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"
+          alt="iamPonil's Github Stats"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"
+          alt="iamPonil's Github Stats"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true" />
+      </picture>
+      <picture style="flex: 1;">
+        <source
+          srcset="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"
+          alt="iamPonil's Github Streaks"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"
+          alt="iamPonil's Github Streaks"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true" />
+      </picture>
+    </div>
   </details>
-  </div>
- 
+  <p align="center">
+    <picture>
+      <source
+        srcset="https://github-readme-stats-iamponils-projects.vercel.app/api/top-langs/?username=iamponil&langs_count=6&theme=dracula&layout=compact&hide_border=true"
+        alt="iamPonil's Github Stats"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-iamponils-projects.vercel.app/api/top-langs/?username=iamponil&langs_count=6&theme=dracula&layout=compact&hide_border=true"
+        alt="iamPonil's Github Stats"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats-iamponils-projects.vercel.app/api/top-langs/?username=iamponil&langs_count=6&theme=dracula&layout=compact&hide_border=true" />
+    </picture>
+  </p>
+</div>
+
 
