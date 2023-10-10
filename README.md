@@ -46,21 +46,14 @@ Java              2 mins          ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<div style="display: flex; align-items: center; justify-content: center;">
-  
-</div>
+
   <div>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/iamponil/">
-          <img max-height="187px"  src="https://github-readme-stats-iamponils-projects.vercel.app/api/top-langs/?username=aimponil&langs_count=6&theme=gotham&layout=compact&hide_border=true" /></a>
-        </p>
         <p align="center">
           <a href="https://github.com/iamponil/">
         <details>
     <summary>:zap: Github Stats</summary>
-    <img  alt="iamPonil's Github Stats" src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"/>
-              <img width="47%" alt="iamPonil's Github Streaks" src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"/>
+    <img  max-height="187px" alt="iamPonil's Github Stats" src="https://github-readme-stats-iamponils-projects.vercel.app/api?username=iamponil&theme=dracula&hide_border=true"/>
+    <img alt="iamPonil's Github Streaks" src="https://streak-stats.demolab.com?user=iamponil&theme=dracula&hide_border=true"/>
 
   </details>
           </a>
